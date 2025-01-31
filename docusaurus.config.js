@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: 'Diario AWS',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           
         ],
       },
