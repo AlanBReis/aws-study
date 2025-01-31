@@ -1,7 +1,8 @@
 {
-  "label": "Tutorial - Extras",
+  "label": "S3",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "O Amazon S3 (Simple Storage Service) é um serviço de armazenamento de objetos da AWS que oferece escalabilidade, durabilidade e segurança. Com o S3, é possível armazenar e recuperar qualquer quantidade de dados a qualquer momento, além de gerenciar o acesso de forma flexível. Ideal para aplicações que exigem armazenamento seguro e confiável, o S3 é amplamente utilizado para backup, arquivamento e distribuição de conteúdo."
   }
 }

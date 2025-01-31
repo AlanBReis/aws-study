@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "EC2",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "O Amazon EC2 (Elastic Compute Cloud) fornece servidores virtuais configuráveis na nuvem, permitindo escalar aplicações com flexibilidade e pagar apenas pelo uso."
   }
 }
