@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_study=self.webpackChunkaws_study||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/aws-study/blog","blogTitle":"Blog","authorsListPath":"/aws-study/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_study=self.webpackChunkaws_study||[]).push([[3743],{3876:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/aws-study/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
