@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Aprendizado na Nuvem',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+         Um lugar para registrar meu progresso e descobertas enquanto aprendo sobre os serviços da AWS.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Meu Diário AWS',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Um espaço pessoal para anotar tudo que estou aprendendo sobre AWS e acompanhar meu desenvolvimento.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Jornada na Nuvem',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Acompanhando minha evolução no aprendizado de AWS e suas diversas ferramentas.
       </>
     ),
   },
